@@ -1,0 +1,14 @@
+.gemeLuyoutContaner {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 5px auto;
+  width: 450px;
+  height: 100%;
+  overflow: hidden;
+}
+
+.gameResetart {
+  margin: 20px auto;
+  padding: 20px 100px;
+}
